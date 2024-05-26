@@ -83,3 +83,14 @@ p {
 .app-link:hover {
   color: #0a58cc;
 }
+@media(max-width: 576px){
+   h2{
+        text-align: center;
+
+    }
+    .fake-link{
+display: flex;
+justify-content: center;
+    }
+    
+}
