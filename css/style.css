@@ -84,13 +84,20 @@ p {
   color: #0a58cc;
 }
 @media(max-width: 576px){
+  h1{
+    font-size: 48px;
+    line-height: 1.5;
+  }
    h2{
+    font-size: 32px;
         text-align: center;
-
+    }
+    p{
+      text-align: center;
     }
     .fake-link{
 display: flex;
 justify-content: center;
     }
-    
+
 }
